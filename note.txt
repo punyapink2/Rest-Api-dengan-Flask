@@ -1,0 +1,4 @@
+#env\Script\activate.bat
+#pip install flask
+#pip install flask-restful
+#pip install flask-cors
